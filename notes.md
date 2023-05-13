@@ -3,6 +3,12 @@
 - Originator identifier
 - business flow ID
 
+## Requirements for aa basic event
+- Idempotency
+
+## Deadleter queues
+
+##  poisoned message/pill
 
 # Domain events
 
@@ -21,4 +27,4 @@ https://www.youtube.com/watch?v=ARWNnnDGPag&list=PLX8B_NHisgeUInqqu7Tlrh6NeGg9jg
     - Delete
 
 
-Sagas & compensational actions
+Sagas (Choreography & compensational actions)
